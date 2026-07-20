@@ -1,6 +1,10 @@
 README
+
+
 Embodied Reinforcement Learning Analysis Code
+
 MATLAB requirements and installation
+
 The analysis code was developed and tested in MATLAB R2023b. The following MATLAB toolboxes are required:
 •	Statistics and Machine Learning Toolbox
 •	Parallel Computing Toolbox
